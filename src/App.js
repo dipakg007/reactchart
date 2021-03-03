@@ -8,6 +8,7 @@ import LineChart from "./components/LineChart";
 import DaughnutChart from "./components/DoughnutChart";
 import PieChart from "./components/PieChart";
 import RadarChart from "./components/RadarChart";
+import RandomData from "./components/RandomData";
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
               <Route path="/radarchart">
                 <RadarChart />
               </Route>
+              <RandomData />
             </Col>
           </Row>
         </Container>

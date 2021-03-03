@@ -8,10 +8,10 @@ function Home() {
         <h2>Learning purpose</h2>
         <p>
           Tech used: React, react-chartjs-2, React-router-dom, reactstrap,
-          firebase
+          React-contextApi(Redux pattern), firebase
         </p>
         <Container>
-          <a href="https://www.google.co.in/">
+          <a href="https://github.com/dipakg007/reactchart">
             <Button color="primary" outline>
               Github Link
             </Button>
